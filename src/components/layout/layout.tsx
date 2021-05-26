@@ -19,7 +19,7 @@ const menuItems: MenuItem[] = [
 ];
 
 const footer = {
-  copyrightOwner: "GEEK SG",
+  copyrightOwner: "test",
   linkedin: "https://www.linkedin.com/in/raymondyeh/",
   github: "https://github.com/yehjxraymond",
   instagram: "https://www.instagram.com/geek.sg/",
