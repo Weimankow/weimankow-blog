@@ -10,3 +10,15 @@ tags:
   - "#opinion"
 ---
 Lorem ipsum lots of cool stuff
+
+
+
+![test](../../static/images/Talk 1 1_2.JPG "test")
+
+
+
+![some text](../../static/images/Talk 1 2_2.JPG "more text")
+
+
+
+and then more test
