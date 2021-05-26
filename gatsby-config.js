@@ -1,7 +1,7 @@
-const siteName = "Sample Blog";
-const siteShortName = "Sample Blog";
-const siteUrl = "https://geek.sg/";
-const siteDescription = "Sample blog template";
+const siteName = "Weiman's Sketchnotes";
+const siteShortName = "Weiman's Sketchnotes";
+const siteUrl = "https://weimankow.netlify.app";
+const siteDescription = "Sketchnotes of tech conferences - Product Management, User Experience Design, Future of Technology";
 const siteKeyword = "";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;
